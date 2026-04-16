@@ -5,6 +5,7 @@ Welcome to my personal portfolio! This project is a comprehensive showcase of my
 🚀 Live Demo: https://portfolio-mahmoud-hamada.vercel.app
 
 ✨ Features
+
 About Me: A professional summary of my background and passion for engineering and development.
 
 Projects Gallery: A curated list of my best work (like EliteHomes, What's For Dinner, etc.) with links to live demos and source code.
@@ -18,6 +19,7 @@ Contact Form: A dedicated section for networking and professional inquiries.
 Smooth Navigation: Intuitive user flow with modern scrolling effects.
 
 🛠️ Tech Stack
+
 HTML5 & CSS3: For a solid, semantic structure and custom, polished styling.
 
 Bootstrap 5: For rapid development and a robust responsive grid system.
